@@ -12,5 +12,6 @@ class Calculations:
         return self.a / self.b
     def get_division(self):
         return self.a / self.b
+    print ("hello")
 
 
